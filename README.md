@@ -97,19 +97,15 @@
 </div>
 
 <h3 align="center">GitHub Stats</h3>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaplansk&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplansk&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaplansk&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=21600&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplansk&layout=compact&cache_seconds=21600&v=1" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=kaplansk" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kaplansk&cache_seconds=21600&v=1" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" alt="divider"/>
-</div>
 
 <h3 align="center">Contact</h3>
 
