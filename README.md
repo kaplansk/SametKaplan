@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN">
+  <a href="https://www.linkedin.com/in/sametkaplan1/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:MAIL">
+  <a href="mailto:sametkaplansk1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -37,7 +37,6 @@ My primary experience lies in **Unity (C#) game development** and **JavaScript-b
 ### 🔫 FPS Game
 - Modular weapon system (multiple weapon types)
 - Enemy AI with state-based behavior
-- Interaction and puzzle mechanics
 - Clean and scalable gameplay architecture
 - Performance-oriented development (object pooling, allocation control)
 - UI/UX systems designed for gameplay clarity
@@ -114,15 +113,16 @@ My primary experience lies in **Unity (C#) game development** and **JavaScript-b
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-111111?logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Git-111111?logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-111111?logo=html5&logoColor=E34F26&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-111111?logo=css3&logoColor=1572B6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-111111?logo=git&logoColor=F05032&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-111111?logo=github&logoColor=white&style=for-the-badge" />
 </p>
+
 
 
 ---
@@ -139,23 +139,13 @@ My primary experience lies in **Unity (C#) game development** and **JavaScript-b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaplansk&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplansk&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaplansk&show_icons=true&rank_icon=github&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaplansk&layout=compact&theme=transparent" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=USERNAME" />
+  <img height="170" src="https://streak-stats.demolab.com?user=kaplansk&theme=transparent" />
 </p>
 
 ---
-
-## 🔗 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/sametkaplan1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sametkaplansk1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
-  </a>
-</p>
 
